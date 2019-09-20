@@ -10,7 +10,7 @@ hyboll 的个人博客
 
 ### 最新
 
-* [世界，你好！](http://blog.ovoll.cn/hello-solo)
+* [CentOS 7.x 安装 JDK 详细步骤](http://blog.ovoll.cn/articles/2019/09/20/1568947662989.html)
 
 
 
